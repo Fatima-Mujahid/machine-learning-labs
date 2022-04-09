@@ -5,8 +5,8 @@ This is the repository for my Machine Learning labs.
 ### Topics
 
 The topics include:
- - Decision Tree
- - Linear Regression
- - Logistic Regression
- - Naïve Bayes
- - KNN Classifier
+ - Decision Tree (Lab 1)
+ - Linear Regression (Lab 2-3)
+ - Logistic Regression (Lab 4)
+ - Naïve Bayes (Lab 5)
+ - KNN Classifier (Lab 6)
