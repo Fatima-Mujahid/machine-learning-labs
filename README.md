@@ -10,3 +10,4 @@ The topics include:
  - Logistic Regression (Lab 4)
  - Naïve Bayes (Lab 5)
  - KNN Classifier (Lab 6)
+ - Principal Component Analysis (Lab 7)
