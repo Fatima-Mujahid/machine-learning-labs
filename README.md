@@ -11,3 +11,4 @@ The topics include:
  - Naïve Bayes (Lab 5)
  - KNN Classifier (Lab 6)
  - Principal Component Analysis (Lab 7)
+ - K-means Clustering (Lab 8)
