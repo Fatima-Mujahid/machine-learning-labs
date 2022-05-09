@@ -12,3 +12,4 @@ The topics include:
  - KNN Classifier (Lab 6)
  - Principal Component Analysis (Lab 7)
  - K-means Clustering (Lab 8)
+ - Support Vector Machine (Lab 9)
